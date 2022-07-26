@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+I'm Nematjon Narziev - a backend developer
+
+My Tech Stack:
+- Unix/Linux
+- Django
+- Unittest
+- Nginx
+- MySQL 
+- PostgreSQL 
+- REST APIs 
+- Git 
+- Docker 
+- Celery
+- DigitalOcean
+- Azure
+
+Soft Skills:
+- Teamwork, Planning, Leadership, Responsibility, Agile methodology
+
 <!--
 **nnarziev/nnarziev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
